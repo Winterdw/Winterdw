@@ -1,8 +1,8 @@
 <div>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winter&theme=react&line_height=40&hide=css"/> </a>
   <a href="https://github.com/Winterdw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Winterdw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winterdw&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winterdw&layout=compact&langs_count=6&theme=dark"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
